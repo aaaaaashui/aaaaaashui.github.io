@@ -1,0 +1,41 @@
+把照片放进这个 images 文件夹，文件名如下（后缀 .jpg / .png / .jpeg 都行）：
+
+关于页头像 -> avatar
+
+【联系】
+微信二维码 -> wechat-qr
+
+【校徽（经历页）】
+杭州电子科技大学 -> logo-hdu
+杭州第四中学    -> logo-hz4
+杭十五中(浙大附初) -> logo-hz15
+西湖小学       -> logo-xihu
+
+【游戏】
+无畏契约  -> game-1
+王者荣耀  -> game-2
+Steam    -> game-3
+
+【音乐】
+周杰伦     -> music-1
+The Weeknd -> music-2
+其他       -> music-3
+
+【运动】
+篮球/羽毛球 -> sport-1
+篮球/羽毛球(第2张) -> sport-1b
+撸铁王健身 -> sport-3
+
+【旅行】
+青岛(4张) -> travel-7 / travel-7b / travel-7c / travel-7d
+惠州(4张) -> travel-6 / travel-6b / travel-6c / travel-6d
+北京(3张) -> travel-3 / travel-3b / travel-3c
+广州 -> travel-5
+珠海 -> travel-4
+日本 -> travel-1
+越南 -> travel-2
+
+【影视】
+番剧 -> movie-1
+短剧 -> movie-2
+电影(3张) -> movie-3 / movie-3b / movie-3c
